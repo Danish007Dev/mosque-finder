@@ -77,7 +77,7 @@ flutter:
   assets:
     - assets/translations/
     - assets/images/
-    - assets/.env
+    - assets/.env           # <-- .env file must exist at assets/.env
 
 
   # fonts:
